@@ -1,1 +1,1 @@
-Um jogo simples em Python onde o objetivo é evitar escolher o mesmo número que o computador. Se acertar, perde; se errar, ganha! 😄 Perfeito para iniciantes que querem praticar lógica e interação com o usuário.
+Um jogo simples em Python onde o objetivo é evitar escolher o mesmo número que o computador, ou não. Se acertar, perde; se errar, ganha!
